@@ -3,7 +3,7 @@
 	"author": "Davi Alves",
 	"description": "Treinando backend no freecodecamp",
 	"keywords": ["freecodecamp", "Nodejs", "Node", "Express", "Backend"],
-	"licence": "MIT",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
