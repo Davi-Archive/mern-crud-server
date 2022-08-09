@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Davi Alves",
 	"description": "Treinando backend no freecodecamp",
-	"keywords": ["Nodejs", "Node", "Express", "Backend"],
+	"keywords": ["freecodecamp", "Nodejs", "Node", "Express", "Backend"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
