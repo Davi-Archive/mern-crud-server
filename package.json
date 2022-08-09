@@ -4,6 +4,7 @@
 	"description": "Treinando backend no freecodecamp",
 	"keywords": ["freecodecamp", "Nodejs", "Node", "Express", "Backend"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
