@@ -7,16 +7,16 @@ Fork it and use as your project base.
 
 default roures are 
 
-GET:   /api/goals/ 
+## GET:   /api/goals/ 
 Retrieve all data from mongoDB database
 
-POST:  /api/goals/
+## POST:  /api/goals/
 Post a new entry into the database
 
-PUT: /api/goals/:id
+## PUT: /api/goals/:id
 Update one entry selected by id parameter
 
-DELETE: /api/goals/:id
+## DELETE: /api/goals/:id
 Delete one entry selected by id parameter
 
 You can configure your mongoDB URI in the .env file
