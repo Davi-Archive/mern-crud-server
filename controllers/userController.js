@@ -2,7 +2,7 @@ const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
 const asyncHandler = require("express-async-handler");
 const User = require("../models/userModel");
-const dotenv = require("dotenv").config();
+require("dotenv").config();
 
 //@desc Register new user
 //@route POST /api/users
